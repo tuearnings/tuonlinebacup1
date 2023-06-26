@@ -32,14 +32,14 @@ user_commands = [
 ]
 avl_web = [
     "tulinks.one",
-    "tulinks.one",
-    "tulinks.one",
-    "tulinks.one",
-    "tulinks.one",
-    "tulinks.one",
-    "tulinks.one",
-    "tulinks.one",
-    "tulinks.one",
+    "tulinks.online",
+    "tulinks.online",
+    "tulinks.online",
+    "tulinks.online",
+    "tulinks.online",
+    "tulinks.online",
+    "tulinks.online",
+    "tulinks.online",
 ]
 
 avl_web1 = "".join(f"- {i}\n" for i in avl_web)
