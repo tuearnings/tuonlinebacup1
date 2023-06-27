@@ -16,6 +16,10 @@ START_MESSAGE = """Hi there {}
 To add or update your tulinks shortner api see example 👇👇
 
 /shortener_api 6LZq851sXofffPHugiKQq
+step 1:- select your shortner 👇👇
+/base_site tulinks.online
+/base_site tulinks.one
+step 2 :- add api key
 
 For adding footer write your footer text and then reply your footer text with /footer
 
@@ -206,7 +210,7 @@ HEADER_MESSAGE = """📝 To set the header text for every message caption or tex
 This is a helpful way to add a consistent header to all of your messages. Enjoy! 🎉"""
 
 FOOTER_MESSAGE = """📝 To set the footer text for every message caption or text, just reply with the text you want to use. You can use \\n to add a line break.
-
+" 1st send message then reply/footer to that massage " 
 🗑 To remove the footer text, use the following command:
 
 `/footer remove`
