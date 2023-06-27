@@ -17,9 +17,19 @@ To add or update your tulinks shortner api see example 👇👇
 
 /shortener_api 6LZq851sXofffPHugiKQq
 step 1:- select your shortner 👇👇
-/base_site tulinks.online
-/base_site tulinks.one
-step 2 :- add api key
+`/base_site tulinks.online`
+`/base_site tulinks.one`
+
+2. Go To 👉 https://tulinks.online/member/tools/api
+3. Than Copy API Key
+4. Than Type /api than give a single space and than paste your API Key (see example to understand more...)
+
+➕ Hit 👉 /help To Get Help.
+➕ Hit 👉 /footer To Get Help About Adding your Custom Footer to bot.
+
+- Made With 🤍 By @tu_earnings_supoort -
+
+| தமிழ் | తెలుగు | हिंदी | മലയാളം | ಕನ್
 
 For adding footer write your footer text and then reply your footer text with /footer
 
