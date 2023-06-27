@@ -1,7 +1,7 @@
 if [ -z $SOURCE_CODE ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/kiran6412/tuonlinebacup1.git /tuonlinebacup1
+  git clone https://github.com/kiran6412/URL-Shortener-V2backup.git /URL-Shortener-V2backup
 else
   echo "Cloning Custom Repo from $SOURCE_CODE "
   git clone $SOURCE_CODE /URL-Shortener-V2backup
